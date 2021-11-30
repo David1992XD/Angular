@@ -1,0 +1,171 @@
+body {
+    background-color: rgba(255, 255, 255, 0.801);
+    font-family: BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.first-content {
+    margin-top: 59px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.first-content .phones img {
+    height: 628px;
+    width: 473px;
+    margin: 0;
+    padding: 0;
+}
+
+.second-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.second-content--sect1 {
+    width: 332px;
+    border: solid 1px #a7a4a49d;
+    padding: 10px;
+    margin: 5px;
+    background-color: #ffffff;
+}
+
+.instagram-logo img {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    width: 182px;
+    height: 52px;
+}
+
+.second-content--sect1 .instagram-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.data-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.second-content--sect1 .data-form input {
+    height: 33px;
+    width: 267px;
+    margin: 2px 26px;
+    border-color: #a7a4a49d;
+    border-width: 1px;
+    padding-left: 8px;
+}
+
+.second-content--sect1 .data-form ::placeholder {
+    font-size: 0.69rem;
+    color: #a7a4a4ef;
+}
+
+.log-in {
+    height: 33px;
+    width: 277px;
+    background-color: #b2dffc;
+    color: #ffffff;
+    border-radius: 6px;
+    border: solid 1px #b2dffc;
+    margin: 11px 25px 11px 27px;
+}
+
+.line-or {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.or-in-the-middle {
+    text-align: center;
+    color: #ababa9;
+    text-transform: uppercase;
+}
+
+.conect-networks {
+    text-align: center;
+    color: #3752a9;
+}
+
+.conect-networks img {
+    height: 15px;
+    width: 15px;
+}
+
+.conect-networks .log {
+    font-weight: bolder;
+}
+
+.second-content--sect2 {
+    border: solid 1px #a7a4a49d;
+    ;
+    padding: 10px;
+    margin: 5px;
+    background-color: #ffffff;
+}
+
+.second-content--sect2 pre {
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.second-content--sect2 pre strong {
+    color: #1f81cc;
+}
+
+.alone-text {
+    text-align: center;
+}
+
+.download-apps {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.appstore {
+    height: 42px;
+    width: 133px;
+}
+
+.google-play {
+    height: 40px;
+    width: 132px;
+}
+
+.download-apps img {
+    margin: 9px 8px;
+}
+
+.observations {
+    margin-top: 59px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.observations p {
+    text-align: center;
+    word-spacing: 14px;
+}
+
+[organize="special"] {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+[organize="special"] .special-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 78px;
+    border: 0px;
+}
